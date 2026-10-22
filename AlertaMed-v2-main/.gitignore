@@ -1,0 +1,19 @@
+# Flutter/Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# macOS
+.DS_Store
+macos/Build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Dart/Pub
+.pub-cache/
+.pub/

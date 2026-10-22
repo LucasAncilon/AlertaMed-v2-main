@@ -1,0 +1,4 @@
+Coloque aqui os audios gravados (mp3, m4a, wav ou ogg).
+O nome do arquivo e a "chave" da frase. Exemplo: boas_vindas.mp3
+Lista completa de frases: docs/NARRACAO.md
+Se um audio nao existir, o app usa a voz sintetica do celular.
